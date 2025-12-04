@@ -6,11 +6,11 @@
   <body>
     <!-- Bouton de téléchargement -->
     <button id="downloadBtn" style="position:absolute; top:10px; left:10px; z-index:999;">
-      Télécharger le GLB
+      telecharger le modele 3d
     </button>
 
     <a-scene>
-      <a-entity id="garage" gltf-model="./garage.glb"></a-entity>
+      <a-entity id="garage" gltf-model="./garage.glb" scale="0.02 0.02 0.02" rotation="0 0 0" animation="property: rotation; to: 0 359 0; dur: 20000; loop: true; easing: linear" ></a-entity>
     </a-scene>
 
     <script>
