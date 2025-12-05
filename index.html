@@ -18,15 +18,9 @@
       <a-entity id="global"
                 rotation="0 0 0"
                 animation="property: rotation; to: 0 359 0; dur: 20000; loop: true; easing: linear">
-        <a-entity id="jardin1" obj-model="obj: ./assets/jardin/jardin1.obj; mtl: ./assets/jardin/jardin1.mtl"></a-entity>
-
-        <a-entity id="garage" gltf-model="./lycée.glb" scale="0.02 0.02 0.02"
-                  rotation="0 0 0" shadow="cast: true; receive: true"></a-entity>
-
-        <a-entity id="position" light="angle: 180; color: #EEE; type: spot; castShadow: true"
-                  position="-0.34746 0.586 -0.05768"
-                  animation="dir: alternate; dur: 400; easing: linear; loop: true; property: position; to: 0 0.6 0"
-                  rotation="180 0 0"></a-entity>
+                <a-entity id="jardin1" obj-model="mtl: ./assets/jardin/jardin1.mtl; obj: ./assets/jardin/jardin1.obj" scale="0.00002 0.00002 0.00002" position="-0.2983 0.49084 -0.09083" rotation="-90 0 0"></a-entity>
+                <a-entity id="garage" gltf-model="./lycée.glb" scale="0.02 0.02 0.02" rotation="0 0 0" shadow="cast: true; receive: true"></a-entity>
+                <a-entity id="position" light="angle: 180; color: #EEE; type: spot; castShadow: true" position="-0.34746 0.586 -0.05768" animation="dir: alternate; dur: 400; easing: linear; loop: true; property: position; to: 0 0.6 0" rotation="180 0 0"></a-entity>
 
         <a-image id="fleche1" src="./fleche.jpg" position="-0.27458 0.492 0.08765"
                  material="blending: multiply" rotation="90 -0.422 0"
