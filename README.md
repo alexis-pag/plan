@@ -7,6 +7,8 @@ Accès au démonstrateur et lien de téléchargement : [https://alexis-pag.githu
 
 Téléchargement direct du fichier sur la page du démonstrateur.
 
+A noter : navigation possible sur la maquette numérique du démonstrateur avec les touches "QSDZ".
+
 ## Données techniques 
 - Echelle 1:1
 - Source des données : Photos satellitaires Google Earth, extraction via hack (bidouillage logiciel)
