@@ -1,0 +1,30 @@
+# Exported from 3D Builder
+
+newmtl ground_1_0_0
+Kd 0.658824 0.658824 0.658824
+
+newmtl Mat_0
+Kd 1.000000 1.000000 1.000000
+map_Kd Jardin_room_1_2.jpeg
+
+newmtl Mat_1
+Kd 1.000000 1.000000 1.000000
+map_Kd Jardin_room_2_3.jpeg
+
+newmtl Mat_2
+Kd 1.000000 1.000000 1.000000
+map_Kd Jardin_Leaves.jpeg
+
+newmtl Mat_3
+Kd 1.000000 1.000000 1.000000
+map_Kd Jardin_Trunk.jpeg
+
+newmtl Leaves_leaves_1_10_0_0
+Kd 0.360000 0.450000 0.230000
+
+newmtl Branches_0_0
+Kd 0.600000 0.600000 0.600000
+
+newmtl Mat_4
+Kd 1.000000 1.000000 1.000000
+map_Kd Jardin_Trunk_trunk_3_12.png
