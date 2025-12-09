@@ -1,0 +1,34 @@
+# Exported from 3D Builder
+
+newmtl Green_0
+Kd 0.129412 0.733333 0.298039
+
+newmtl Mat_0
+Kd 1.000000 1.000000 1.000000
+map_Kd texture_0.jpeg
+
+newmtl Mat_1
+Kd 1.000000 1.000000 1.000000
+map_Kd texture_2_12672105836179371972.png
+
+newmtl Mat_2
+Kd 1.000000 1.000000 1.000000
+map_Kd texture_0_14126322532748253036.png
+
+newmtl Mat_3
+Kd 1.000000 1.000000 1.000000
+map_Kd texture_1_6672996682974157280.png
+
+newmtl Mat_4
+Kd 1.000000 1.000000 1.000000
+map_Kd texture_4.jpeg
+
+newmtl Material.002_0
+Kd 1.000000 1.000000 1.000000
+map_Kd texture_0_15853527909305393568.png
+
+newmtl Glossy_Beach_Wood_0
+Kd 0.762076 0.792035 0.308403
+
+newmtl Glossy_Chocolate_Wood_0
+Kd 0.002898 0.343307 0.654867
